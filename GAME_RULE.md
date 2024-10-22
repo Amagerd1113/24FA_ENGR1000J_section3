@@ -1,7 +1,8 @@
-# **GAME RULE**  
+# **GAME RULE**
+
 **Welcome to the Two-Wheeled Self-Balancing Car Obstacle Course Race!**
 
-In this thrilling competition, two two-wheeled self-balancing cars face a daunting challenge. They must work together, carrying a fragile wooden board across a treacherous 5-meter-long and 2-meter-wide track. The path ahead is scattered with various obstacles, and while one car is equipped with an ultrasonic sensor to guide the way, the other is blind to the dangers lurking ahead. Through Bluetooth communication, they will share their vision and navigate the course, balancing speed and precision in a race for glory. Will they emerge victorious, or will the obstacles claim their journey?
+In this thrilling competition, two two-wheeled self-balancing cars face a daunting challenge. They must work together, carrying a foam board(the cap of your balanced car container) across a treacherous 5-meter-long and 2-meter-wide track. The path ahead is scattered with various obstacles, and while one car is equipped with an ultrasonic sensor to guide the way, the other is blind to the dangers lurking ahead. Through Bluetooth communication, they will share their vision and navigate the course, balancing speed and precision in a race for glory. Will they emerge victorious, or will the obstacles claim their journey?
 
 ## **1. Track and Starting Point**
 
@@ -9,66 +10,88 @@ The stage is set. A sleek, polished arena stretches 5 meters long and 2 meters w
 
 In the silence before the race begins, there’s a bond between them—a shared goal. One robot, sleek and equipped with an **ultrasonic sensor**, will serve as the guide. It can detect obstacles, anticipate dangers, and share vital information. Its partner, a robust but sensorless robot, will rely entirely on the sensor-equipped car for direction, its Bluetooth signal a lifeline.
 
-The race begins in a dramatic fashion. With a graceful sweep, both cars rotate **360 degrees**, signaling their intent and readiness to tackle the course. The wooden board, their shared burden, sits carefully balanced on top. The decision lies ahead: How these two cars cooperates with each other? The choice could mean triumph or disaster, but the journey must begin.
+The race begins in a dramatic fashion. With a graceful sweep, both cars rotate **360 degrees(During this part, time cost will not be counted, and this worth 20 points)**, signaling their intent and readiness to tackle the course. The foam board, their shared burden, sits carefully balanced on top. The decision lies ahead: How will these two cars cooperate? The choice could mean triumph or disaster, but the journey must begin.
 
 ## **2. Track Selection**
 
 Now, the adventure truly unfolds. Three tracks lie ahead, each more dangerous than the last, each offering its own unique puzzle of obstacles:
 
-- **Easy Track:**  
-  They see the cylinders first. These tall, smooth obstacles stand in their path, but there’s a sense of predictability. All sides are flat, and the track itself feels generous, with no risk of dead ends. The cylinders offer a gentle challenge, perfect for those beginning their journey. The **ultrasonic sensor car** chirps softly, reading the cubes ahead and guiding its partner along the safest route. The path is long, but the cylinders are no match for their teamwork.  
-  **Starting score: 100 points.**
-
-- **Medium Track:**  
-  As the robots enter the medium track, tension rises. The obstacles are now a mix—cylinders and **cubes** scattered unpredictably. All cubes present only their surfaces, demanding more precision. The cubes, occupying more space, offer less grip for their board and the slightest misstep could lead to disaster. The **sensor car** beeps in warning, sharing every twist and turn with its partner. Each route leads to the finish, but the journey is far from easy.
+- **Easy Track:**They see the cylinders first. These tall, smooth obstacles stand in their path, but there’s a sense of predictability. All sides are flat, and the track itself feels generous, with no risk of dead ends. The cylinders offer a gentle challenge, perfect for those beginning their journey. The **ultrasonic sensor car** chirps softly, reading the cubes ahead and guiding its partner along the safest route. The path is long, but the cylinders are no match for their teamwork.**Starting score: 100 points.**
+- **Medium Track:**As the robots enter the medium track, tension rises. The obstacles are now a mix—cylinders and **cubes** scattered unpredictably. **All cubes present only their surfaces(this means that all the surfaces of the cubes will be parallel or normal to the two sides of the track)**, demanding more precision. The cubes, occupying more space, offer less grip for their board and the slightest misstep could lead to disaster. The **sensor car** beeps in warning, sharing every twist and turn with its partner. Each route leads to the finish, but the journey is far from easy.
   **Starting score: 120 points.**
-
-- **Hard Track:**  
-  For the bravest of competitors, the hard track looms like a mountain of peril. **Cubes, edges exposed**, and **cylinders** are scattered with ruthless efficiency. Some obstacles stand silently in shadow, waiting for a miscalculation. Worse still, the track twists and turns, offering **dead ends**, traps that threaten to devour the robots' progress. Only one correct path leads to victory, but the **ultrasonic sensor car** has seen this before. It sends a pulse to its partner—a signal that they must tread carefully and think ahead. Time is not their friend, but neither is haste.  
+- **Hard Track:**
+  For the bravest of competitors, the hard track looms like a mountain of peril. **Cubes, edges exposed**, and **cylinders** are scattered with ruthless efficiency. Some obstacles stand silently in shadow, waiting for a miscalculation. Worse still, the track twists and turns, offering **dead ends**, traps that threaten to devour the robots' progress. Only one correct path leads to victory, but the **ultrasonic sensor car** has seen this before. It sends a pulse to its partner—a signal that they must tread carefully and think ahead. Time is not their friend, but neither is haste.
   **Starting score: 150 points.**
 
 ## **3. Failures and Penalties**
 
 But every hero's journey is marked by the threat of failure. For these two brave robots, failure is not a distant possibility—it lurks at every corner.
 
-- **Failure Definition:**  
-  The rules are clear: if either robot **falls** or if the **wooden board touches the ground**, they fail. The crowd holds its breath every time the board tilts dangerously close to the edge of a cube or cylinder.
+- **Failure Definition:**The rules are clear: if either robot **falls**, if the **foam board touches the ground** or **stuck in one certain area**, they fail. The crowd holds its breath every time the board tilts dangerously close to the edge of a cube or cylinder.
+- **Chances to Fail:**Each team has **5 chances** to fail. Once they use them all, there is no coming back.
 
-- **Chances to Fail:**  
-  Each team has between **8 chances** to fail. Once they use them all, there is no coming back.
+  - **Case 1:** If they conquer the easy track without a single failure, they hold on to their chances, precious tokens they can use when the path becomes rougher.
+  - **Case 2:** But if they falter in the early stages, their pool of chances dwindles, and their quest becomes ever more perilous. Every fail chips away at their hope.
 
-    - **Case 1:** If they conquer the easy track without a single failure, they hold on to their chances, precious tokens they can use when the path becomes rougher.
-    - **Case 2:** But if they falter in the early stages, their pool of chances dwindles, and their quest becomes ever more perilous. Every fail chips away at their hope.
-
-Still, the gods of fortune are kind. If they pass every track without failure, they will receive a **special reward**. Their unused chances can be transformed into **bonus points**, a testament to their flawless execution.
-
-## **4. Scoring and Timing**
-
-With every second that passes, the tension mounts. The journey is long, but they must be swift, for time is an unforgiving adversary.
-
-- **Timing Penalty:**  
-  Time marches on. For the first **30 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
-
-- **Bonus Points:**  
-  There are hidden treasures on this track—**special zones** that, if discovered, will add **5 to 20 points** to their score. But only the **sensor-equipped robot** can sense these secrets and relay them to its partner. Together, they must seize every opportunity to score big.
-
-## **5. Collaboration and Bluetooth Communication**
+## **4. Collaboration and Bluetooth Communication**
 
 But above all else, this race is a story of teamwork. One robot holds the key to seeing the obstacles ahead, but it cannot act alone. It must rely on its sensorless partner to navigate and carry the board with equal precision. They speak a silent language, a series of **Bluetooth signals** exchanged in the heat of the moment, guiding, warning, celebrating small victories as they move forward.
 
-As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied: their **time**, their **collisions**, their **bonus points**.
+**Reminder: The Bluetooth module is essential for effective teamwork and navigation in this competition. It must be used to transmit necessary data between the sensor-equipped car and the sensorless car. If the Bluetooth communication is not utilized practically and effectively to share essential information, points will be deducted as a penalty.**
 
-Will they rise to the challenge, or will they fall?
+## **5. Scoring and Timing**
 
-The final score is revealed, calculated as:  
-**Final score = Starting score - (Time deduction × Race time) + (Collision bonus × Number of collisions left) + Bonus points**
+With every second that passes, the tension mounts. The journey is long, but they must be swift, for time is an unforgiving adversary. **Time will start to be counted when then cross the starting line, which will be signed clearly on Game Day.**
 
-For instance, if they braved the **Hard Track** (starting score of **150 points**), finished the race in **40 seconds** (with the first 30 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, but earned **10 bonus points**, their final score would be:
+- **Timing Penalty:**Time marches on. For the first **60 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
+- **Distance Score:**To encourage progress through the track, a distance-based scoring system is in place. The score calculation will include a percentage factor determined by the distance covered. The percentage factor is defined as **(distance covered / 5 meters)**. This factor will be applied to both the **starting score** and the **penalty-free time** to reward advancing further along the track.
 
-**Final score = 150 - (1 × 10) + (2 × 5) + 10 = 160 points.**
+  - **Example 1:** If they complete **3 meters** of the track, the distance percentage factor will be **3 meters / 5 meters = 0.6**. The starting score and penalty-free time are then multiplied by 0.6.
+  - **Example 2:** If they complete the full **5 meters**, the distance percentage factor will be **5 meters / 5 meters = 1.0**. In this case, the starting score and penalty-free time remain unaffected.
+- **Collision Deductions:**
+  Collisions with obstacles lead to point deductions. For each **collision** with a cube or cylinder, **5 points** are deducted from the final score. Teams must be careful to avoid unnecessary collisions to maximize their score.
 
----
+As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied based on several factors: their **time**, their **collisions**, their **distance covered**, and their **bonus points** for unused chances.
+
+### **Final Score Calculation:**
+
+The final score is calculated as:
+**Final score = (360 degree rotation) + (Starting score × Distance factor) - (Time deduction × Race time) - (Collision penalty × Number of collisions) + Bonus points**
+
+Where:
+
+- **Distance factor** = Distance covered / 5 meters
+- **Time deduction** = 1 point per second after the penalty-free period (60 seconds)
+- **Collision penalty** = 5 points per collision
+
+For example, if they braved the **Hard Track** (starting score of **150 points**), finished the race in **70 seconds** (with the first 30 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
+
+**Final score = 20 + (150 × 4/5) - (1 × (70 - 60 × 4/5)) - (5 × 3) = 20 + 120 - 22 - 15  = 103 points.**
+
+## **Important Reminder:**
+
+On the game day, you must submit the cars with the finalized code to the TA by **6:20**. After this submission, any subsequent modifications to the code will result in a **20% deduction** from the total score. Therefore, it's crucial to thoroughly **check your code** for any issues or final adjustments before handing over the cars.
+
+On the game day, the track will be set up progressively from **Easy**, to **Medium**, and finally to **Hard** without resetting the obstacles or course layout. Each team will be given a total of **5 attempts**, which they can allocate freely across the tracks. However, each team is required to attempt the **Easy track** at least once before progressing to more challenging tracks.
+
+- **Example 1:** 1 easy attempt + 4 medium attempts.
+
+## **Hint**
+
+When writing your code, you can refer to the logic depicted in the following image. Use it as a guide to understand the flow and structure required for implementing your solution. Make sure to carefully analyze the sequence of operations, conditions, and interactions illustrated, and align your code accordingly to achieve the desired behavior.
+
+```mermaid
+graph TD
+    A1([1: Move Forward, Continue Until Obstacle is Detected Ahead]) --> B1{2: Turn Right, Is Obstacle Detected Ahead?}
+    B1 -- Yes --> C1([4: Turn Left, Move Forward for 1 Second, Turn Right, Is Obstacle Detected Ahead?])
+    C1 -- Yes --> A1
+    C1 -- No --> A1
+    B1 -- No --> D1([3: Move Forward for 1 Second, Turn Forward])
+    D1 --> A1
+```
 
 ## **Ready?**
 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
+
+---
