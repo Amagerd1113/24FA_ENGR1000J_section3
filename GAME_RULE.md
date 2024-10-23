@@ -83,7 +83,9 @@ Example 2: if you fail the easy track 6 times, you have no chances left.
 
 ## **Hint**
 
-When writing your code, you can refer to the logic depicted in the following image. Use it as a guide to understand the flow and structure required for implementing your solution. Make sure to carefully analyze the sequence of operations, conditions, and interactions illustrated, and align your code accordingly to achieve the desired behavior.
+When writing your code, you can refer to the logic depicted in the following image. Please use it as a guide to understand the flow and structure required for implementing your solution. Make sure to carefully analyze the sequence of operations, conditions, and interactions illustrated, and align your code accordingly to achieve the desired behavior.
+
+**Note**: As the easy and medium tracks are provided to you, you may hard-code the strategy. However, doing so may prevent you from successfully passing the hard track.
 
 ```mermaid
 graph TD
