@@ -43,20 +43,23 @@ But above all else, this race is a story of teamwork. One robot holds the key to
 
 With every second that passes, the tension mounts. The journey is long, but they must be swift, for time is an unforgiving adversary. **Time will start to be counted when your car finishes the 360-degree rotation.**
 
-- **Timing Penalty:**Time marches on. For the first **60 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
-- **Distance Score:**To encourage progress through the track, a distance-based scoring system is in place. The score calculation will include a percentage factor determined by the distance covered. The percentage factor is defined as **(distance covered / 5 meters)**. This factor will be applied to both the **starting score** and the **penalty-free time** to reward advancing further along the track.
+- **Timing Penalty:** Time marches on. For the first **60 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
+- **Distance Score:** To encourage progress through the track, a distance-based scoring system is in place. The score calculation will include a percentage factor determined by the distance covered. The percentage factor is defined as **(distance travelled / 5 meters)**. This factor will be applied to both the **starting score** and the **penalty-free time** to reward advancing further along the track.
 
   - **Example 1:** If they complete **3 meters** of the track, the distance percentage factor will be **3 meters / 5 meters = 0.6**. The starting score and penalty-free time are then multiplied by 0.6.
   - **Example 2:** If they complete the full **5 meters**, the distance percentage factor will be **5 meters / 5 meters = 1.0**. In this case, the starting score and penalty-free time remain unaffected.
 - **Collision Deductions:**
   Collisions with obstacles lead to point deductions. For each **collision** with a cube or cylinder, **5 points** are deducted from the final score. Teams must be careful to avoid unnecessary collisions to maximize their score.
 
-As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied based on several factors: their **time**, their **collisions**, their **distance covered**, and their **bonus points** for unused chances.
+As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied based on several factors: their **time**, their **collisions**, their **distance travlled**, and their **bonus points** for unused chances.
 
 ### **Final Score Calculation:**
 
 The final score is calculated as:
-**Final score = (360 degree rotation) + (Starting score × Distance factor) - (Time deduction × Race time) - (Collision penalty × Number of collisions) + Bonus points**
+
+**One-track score = (Full score × Distance factor) - Overtime deduction - (Collision penalty × Number of collisions)**
+
+**Final score = (360-degree rotation) + Easy track score + Medium track score + Hard track score + Bonus points**
 
 Where:
 
