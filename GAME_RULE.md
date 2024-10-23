@@ -12,7 +12,7 @@ In the silence before the race begins, there’s a bond between them—a shared 
 
 The race begins in a dramatic fashion. With a graceful sweep, both cars rotate **360 degrees(During this part, time cost will not be counted, and this worth 20 points)**, signaling their intent and readiness to tackle the course. The foam board, their shared burden, sits carefully balanced on top. The decision lies ahead: How will these two cars collaborate? The choice could mean triumph or disaster, but the journey must begin.
 
-## **2. Track Selection**
+## **2. Track Category**
 
 Now, the adventure truly unfolds. Three tracks lie ahead, each more dangerous than the previous one, each offering its own unique puzzle of obstacles:
 
