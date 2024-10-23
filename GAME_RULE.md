@@ -10,7 +10,7 @@ In this thrilling competition, two two-wheeled self-balancing cars face a daunti
 
 The stage is set. A sleek, polished arena stretches 5 meters long and 2 meters wide. The walls shimmer with the promise of a challenge. At the starting point, the two cars sit still, their engines humming softly. In front of them lies the obstacle-strewn track, their adversary for the day.
 
-In the silence before the race begins, there’s a bond between them—a shared goal. One robot, sleek and equipped with an **ultrasonic sensor**, will serve as the guide. It can detect obstacles, anticipate dangers, and share vital information. Its partner, a robust but sensorless robot, will rely entirely on the sensor-equipped car for direction, its Bluetooth signal a lifeline.
+In the silence before the race begins, there’s a bond between them—a shared goal. One robot, sleek and equipped with an **ultrasonic sensor**, will serve as the guide. It can detect obstacles, anticipate dangers, and share vital information. Its partner, a robust but sensorless robot, will rely entirely on the sensor-equipped car for direction.
 
 The race begins in a dramatic fashion. With a graceful sweep, both cars rotate **360 degrees together (During this part, time cost will not be counted, and this worth 20 points)**, signaling their intent and readiness to tackle the course. The foam board, their shared burden, sits carefully balanced on top. The decision lies ahead: How will these two cars collaborate? The choice could mean triumph or disaster, but the journey must begin.
 
