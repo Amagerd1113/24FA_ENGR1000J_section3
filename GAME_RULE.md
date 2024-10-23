@@ -18,12 +18,10 @@ The race begins in a dramatic fashion. Both cars rotate **360 degrees together (
 
 Now, the adventure truly unfolds. Three tracks lie ahead, each more dangerous than the previous one, each offering its own unique puzzle of obstacles:
 
-- **Easy Track:** They see the cylinders first. These tall, smooth obstacles stand in their path, but there’s a sense of predictability. All sides are flat, and the track itself has no risk of dead ends. The cylinders offer a gentle challenge, perfect for those beginning their journey. The **ultrasonic sensor car** measures the cylinders ahead and guides its partner along the safest route. The path is long, but the cylinders are no match for their teamwork.**Score: 80 points.**
-- **Medium Track:** As the robots enter the medium track, tension rises. The obstacles are now a mix—cylinders and **cubes** scattered unpredictably. **All cubes present only their surfaces(this means that all the surfaces of the cubes will be parallel or normal to the two sides of the track)**, demanding more precision. The cubes, occupying more space, offer less grip for their board and the slightest misstep could lead to disaster. Each route leads to the finish, but the journey is far from easy.
-  **Score: 60 points.**
-- **Hard Track:**
+- **Easy Track (Score: 80 points):** They see the cylinders first. These tall, smooth obstacles stand in their path, but there’s a sense of predictability. All sides are flat, and the track itself has no risk of dead ends. The cylinders offer a gentle challenge, perfect for those beginning their journey. The **ultrasonic sensor car** measures the cylinders ahead and guides its partner along the safest route. The path is long, but the cylinders are no match for their teamwork.
+- **Medium Track (Score: 60 points):** As the robots enter the medium track, tension rises. The obstacles are now a mix—cylinders and **cubes** scattered unpredictably. **All cubes present only their surfaces(this means that all the surfaces of the cubes will be parallel or normal to the two sides of the track)**, demanding more precision. The cubes, occupying more space, offer less grip for their board and the slightest misstep could lead to disaster. Each route leads to the finish, but the journey is far from easy.
+- **Hard Track (Score: 40 points):**
   For the bravest of competitors, the hard track looms like a mountain of peril. **Cubes** and **cylinders** are scattered. Some obstacles stand silently in shadow, waiting for a miscalculation. Worse still, the track twists and turns, offering **dead ends**, traps that threaten to devour the robots' progress. Only one correct path leads to victory, but the **ultrasonic sensor car** has seen this before. It sends a pulse to its partner—a signal that warns the dead end. Time is not their friend, but neither is haste.
-  **Score: 40 points.**
 
 ## **3. Failures and Penalties**
 
