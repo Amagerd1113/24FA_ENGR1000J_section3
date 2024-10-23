@@ -70,9 +70,9 @@ For example, if they braved the **Hard Track** (starting score of **150 points**
 
 ## **Important Reminder:**
 
-Before the game day, the easy and medium tracks will set up and available to you. You can 
+Starting from Oct 24, the easy and medium tracks will be set up and available to you.
 
-On the game day, you must submit the cars with the finalized code to the TA by **6:20**. After this submission, any subsequent modifications to the code will result in a **20% deduction** from the total score. Therefore, it's crucial to thoroughly **check your code** for any issues or final adjustments before handing over the cars.
+On the game day, you must **check your code** thoroughly before the game starts. You will have one chance to adjust your car setup before each track. Your order will be determined by a lucky draw.
 
 On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **6 chances to FAIL**. An attempt is considered **failed** if the car falls or the plastic board touches the ground. 
 
