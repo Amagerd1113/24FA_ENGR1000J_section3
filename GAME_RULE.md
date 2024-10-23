@@ -63,13 +63,13 @@ The final score is calculated as:
 
 Where:
 
-- **Distance factor** = Distance covered / 5 meters
-- **Time deduction** = 1 point per second after the penalty-free period (60 seconds)
-- **Collision penalty** = 5 points per collision
+- **Distance factor** = Distance travelled / 5 meters
+- **Time deduction** = 1 point per second after the penalty-free period (120 seconds)
+- **Collision penalty** = 2 points per collision
 
-For example, if they braved the **Hard Track** (starting score of **150 points**), finished the race in **70 seconds** (with the first 30 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
+For example, if they braved the **Hard Track**, finished the race in **130 seconds** (with the first 120 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
 
-**Final score = 20 + (150 × 4/5) - (1 × (70 - 60 × 4/5)) - (5 × 3) = 20 + 120 - 22 - 15  = 103 points.**
+**Hard track score = (40 × 4/5) - (1 × (130 - 120)) - (2 × 3) = 16 points.**
 
 ## **Important Reminder:**
 
