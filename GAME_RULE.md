@@ -111,7 +111,7 @@ graph TD
 **Topology**
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image2.png">
+  <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image2.png">
 </p>
 
 Easy track: The topology is provided and fixed.
