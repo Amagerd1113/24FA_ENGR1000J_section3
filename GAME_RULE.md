@@ -35,7 +35,7 @@ But every hero's journey is marked by the threat of failure. For these two brave
 
 ## **4. Collaboration and Bluetooth Communication**
 
-But above all else, this race is a story of teamwork. One robot holds the key to seeing the obstacles ahead, but it cannot act alone. It must rely on its sensorless partner to navigate and carry the board with equal precision. They speak a silent language, a series of **Bluetooth signals** exchanged in the heat of the moment, guiding, warning, celebrating small victories as they move forward.
+But above all else, this race is a story of teamwork. One robot holds the key to seeing the obstacles ahead, but it cannot act alone. **It must rely on its sensorless partner to navigate and carry the board with equal precision.** They speak a silent language, a series of **Bluetooth signals** exchanged in the heat of the moment, guiding, warning, celebrating small victories as they move forward.
 
 **Reminder: The Bluetooth module is essential for effective teamwork and navigation in this competition. It must be used to transmit necessary data between the sensor-equipped car and the sensorless car. If the Bluetooth communication is not utilized practically and effectively to share essential information, points will be deducted as a penalty.**
 
@@ -85,6 +85,8 @@ Example 2: if you fail the easy track 6 times, you have no chances left.
 
 
 ## **Hint**
+
+To allow both cars to cross the finish line together with the foam board, you can place one car upside down and stack them with the foam board in between. Drill four holes in the foam board, and have the upper car use an ultrasonic sensor to measure the distance. The measured data can then be transmitted to the lower car.
 
 When writing your code, you can refer to the logic depicted in the following image. Please use it as a guide to understand the flow and structure required for implementing your solution. Make sure to carefully analyze the sequence of operations, conditions, and interactions illustrated, and align your code accordingly to achieve the desired behavior.
 
