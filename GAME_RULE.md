@@ -41,7 +41,7 @@ But above all else, this race is a story of teamwork. One robot holds the key to
 
 ## **5. Scoring and Timing**
 
-With every second that passes, the tension mounts. The journey is long, but they must be swift, for time is an unforgiving adversary. **Time will start to be counted when then cross the starting line, which will be signed clearly on Game Day.**
+With every second that passes, the tension mounts. The journey is long, but they must be swift, for time is an unforgiving adversary. **Time will start to be counted when your car finishes the 360-degree rotation.**
 
 - **Timing Penalty:**Time marches on. For the first **60 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
 - **Distance Score:**To encourage progress through the track, a distance-based scoring system is in place. The score calculation will include a percentage factor determined by the distance covered. The percentage factor is defined as **(distance covered / 5 meters)**. This factor will be applied to both the **starting score** and the **penalty-free time** to reward advancing further along the track.
