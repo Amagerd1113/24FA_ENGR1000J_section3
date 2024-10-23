@@ -29,7 +29,7 @@ But every hero's journey is marked by the threat of failure. For these two brave
 
 - **Failure Definition:** The rules are clear: if the car **falls**, the **foam board touches the ground**, or **car is stuck in one certain area**, they fail. The crowd holds its breath every time the board tilts dangerously close to the edge of a cube or cylinder.
 - **Chances to Fail:** Each team has **6 chances** to fail. Once they use them all, the game is over.
-- **Chance Usage:** If you get a partial credit on a track, you can choose to give it another try.
+- **Want to try again?** Yes, you can. If you get a partial credit on a track, you can choose to spend one more chance on it before we move on to the next track.
 
   - **Case 1:** If they conquer the easy track without a single failure, they hold on to their chances, precious tokens they can use when the path becomes rougher.
   - **Case 2:** But if they falter in the early stages, their pool of chances dwindles, and their quest becomes ever more perilous. Every fail chips away at their hope.
