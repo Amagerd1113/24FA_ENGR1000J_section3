@@ -66,15 +66,15 @@ Where:
 
 - **Distance factor** = Distance travelled / 5 meters
 - **Time deduction** = 1 point per second after the penalty-free period (120 seconds)
-- **Collision penalty** = 2 points per collision
+- **Collision penalty** = 3 points per collision
 
 For example, if they braved the **Hard Track**, finished the race in **130 seconds** (with the first 120 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
 
-**Hard track score = (40 × 4/5) - (1 × (130 - 120)) - (2 × 3) = 16 points.**
+**Hard track score = (40 × 4/5) - (1 × (130 - 120)) - (3 × 3) = 13 points.**
 
 ## **Important Reminder:**
 
-Starting from Oct 24, the easy and medium tracks will be set up and available to you.
+Starting from Oct 24, the easy track will be set up and available to you. 
 
 On the game day, you must **check your code** thoroughly before the game starts. You will have one chance to adjust your car setup before each track. Your order will be determined by a lucky draw.
 
