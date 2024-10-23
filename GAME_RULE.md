@@ -25,10 +25,11 @@ Now, the adventure truly unfolds. Three tracks lie ahead, each more dangerous th
 
 ## **3. Failures and Penalties**
 
-But every hero's journey is marked by the threat of failure. For these two brave robots, failure is not a distant possibility—it lurks at every corner.
+But every hero's journey is marked by the threat of failure. For these two brave robots, failure is not a distant possibility.
 
 - **Failure Definition:** The rules are clear: if the car **falls**, the **foam board touches the ground**, or **car is stuck in one certain area**, they fail. The crowd holds its breath every time the board tilts dangerously close to the edge of a cube or cylinder.
 - **Chances to Fail:** Each team has **6 chances** to fail. Once they use them all, the game is over.
+- **Chance Usage:** If you get a partial credit on a track, you can choose to give it another try.
 
   - **Case 1:** If they conquer the easy track without a single failure, they hold on to their chances, precious tokens they can use when the path becomes rougher.
   - **Case 2:** But if they falter in the early stages, their pool of chances dwindles, and their quest becomes ever more perilous. Every fail chips away at their hope.
