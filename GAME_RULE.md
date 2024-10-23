@@ -108,6 +108,18 @@ graph TD
     D1 --> A1
 ```
 
+**Topology**
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image2.png">
+</p>
+
+Easy track: The topology is provided and fixed.
+
+Medium track: The topology consists of three levels, each including two or three obstacles. The distance between levels is flexible. The two cylinders on the second level are fixed. The horizontal distance between the cube and the two cylinders on the second level is flexible.
+
+Hard track: An example is provided. The logic provided above can pass the hard track. On the game day, a similar track will be provided.
+
 ## **Ready?**
 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
