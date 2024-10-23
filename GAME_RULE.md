@@ -77,6 +77,7 @@ On the game day, you must **check your code** thoroughly before the game starts.
 On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **6 chances to FAIL**. An attempt is considered **failed** if the car falls or the plastic board touches the ground. 
 
 Example 1: if you can pass the easy track on your first attempt, you still have 6 chances. You can use the rest of chances in more difficult tracks.
+
 Example 2: if you fail the easy track 6 times, you have no chances left.
 
 
