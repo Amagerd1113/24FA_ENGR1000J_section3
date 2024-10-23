@@ -88,6 +88,8 @@ Example 2: if you fail the easy track 6 times, you have no chances left.
 
 ## **Hint**
 
+As it is simpler to debug a single car, please figure out how to pass the obstables with a single car first. We will provide you the pillars to connect the two cars together, as detailed below.
+
 To allow both cars to cross the finish line together with the foam board, you can place one car upside down and stack them with the foam board in between. Drill four holes in the foam board, and have the upper car use an ultrasonic sensor to measure the distance. The measured data can then be sent to the lower car.
 
 <p align="center">
