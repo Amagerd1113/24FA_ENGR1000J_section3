@@ -75,9 +75,9 @@ For example, if they braved the **Hard Track**, finished the race in **130 secon
 
 ## **Important Reminder:**
 
-Starting from Oct 24, the easy track will be set up and available to you. 
+The easy track has been set up in the empty space before the regular lab room. You can use it anytime.
 
-On the game day, you must **check your code** thoroughly before the game starts. You will have one chance to adjust your car setup before each track. Your order will be determined by a lucky draw.
+On the game day, you must **check your code** thoroughly before the game starts. You will have one chance to adjust your car setup before each track. Before each track starts, you need to hand over your car to us and no more modifications are allowed. Your order to start the game will be determined randomly on the game day.
 
 On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **6 chances to FAIL**. An attempt is considered **failed** if the car falls or the foam board touches the ground or the car is stuck in a corner. 
 
@@ -88,14 +88,14 @@ Example 2: if you fail the easy track 6 times, you have no chances left.
 
 ## **Hint**
 
-To allow both cars to cross the finish line together with the foam board, you can place one car upside down and stack them with the foam board in between. Drill four holes in the foam board, and have the upper car use an ultrasonic sensor to measure the distance. The measured data can then be transmitted to the lower car.
+To allow both cars to cross the finish line together with the foam board, you can place one car upside down and stack them with the foam board in between. Drill four holes in the foam board, and have the upper car use an ultrasonic sensor to measure the distance. The measured data can then be sent to the lower car.
 
 <p align="center">
   <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image1.png">
 </p>
 
 
-When writing your code, you can refer to the logic depicted in the following image. Please use it as a guide to understand the flow and structure required for implementing your solution. Make sure to carefully analyze the sequence of operations, conditions, and interactions illustrated, and align your code accordingly to achieve the desired behavior.
+When writing your code, you can refer to the logic depicted in the following figure. Please use it as a guide to understand the flow and structure required for implementing your solution. Make sure to carefully analyze the sequence of operations, conditions, and interactions illustrated, and align your code accordingly to achieve the desired behavior.
 
 **Note**: As the easy track is provided to you, you may hard-code the strategy. However, doing so may prevent you from successfully passing the medium and hard tracks.
 
@@ -111,15 +111,15 @@ graph TD
 
 **Topology**
 
+Easy track: The topology is provided and fixed, as in the figure below.
+
+Medium track: The topology consists of three layers, each including two or three obstacles. The distance between layers is flexible. The two cylinders on the second layer are fixed. The horizontal distance between the cube and the two cylinders on the second layer is flexible.
+
+Hard track: An example is provided below. On the game day, a similar track will be provided. The logic provided above has been tested to pass the hard track. 
+
 <p align="center">
   <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image3.png">
 </p>
-
-Easy track: The topology is provided and fixed.
-
-Medium track: The topology consists of three levels, each including two or three obstacles. The distance between levels is flexible. The two cylinders on the second level are fixed. The horizontal distance between the cube and the two cylinders on the second level is flexible.
-
-Hard track: An example is provided. The logic provided above can pass the hard track. On the game day, a similar track will be provided.
 
 ## **Ready?**
 
