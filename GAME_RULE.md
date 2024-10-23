@@ -90,7 +90,7 @@ Example 2: if you fail the easy track 6 times, you have no chances left.
 To allow both cars to cross the finish line together with the foam board, you can place one car upside down and stack them with the foam board in between. Drill four holes in the foam board, and have the upper car use an ultrasonic sensor to measure the distance. The measured data can then be transmitted to the lower car.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image1.png">
+  <img width="600" height="300" src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image1.png">
 </p>
 
 
