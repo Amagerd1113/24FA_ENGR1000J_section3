@@ -82,8 +82,8 @@ When writing your code, you can refer to the logic depicted in the following ima
 
 ```mermaid
 graph TD
-    A1([1: Move Forward, Continue Until Obstacle is Detected Ahead]) --> B1{2: Turn Right, Is Obstacle Detected Ahead?}
-    B1 -- Yes --> C1([4: Turn Left, Move Forward for 1 Second, Turn Right, Is Obstacle Detected Ahead?])
+    A1([1: Move Forward, Continue Until Obstacle is Detected Ahead]) --> B1{2: Rotate to face Right, Is Obstacle Detected Ahead?}
+    B1 -- Yes --> C1([4: Rotate to face Left, Move Forward for 1 Second, Turn Right, Is Obstacle Detected Ahead?])
     C1 -- Yes --> A1
     C1 -- No --> A1
     B1 -- No --> D1([3: Move Forward for 1 Second, Turn Forward])
