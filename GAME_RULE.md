@@ -56,7 +56,7 @@ With every second that passes, the tension mounts. The journey is long, but they
 - **Collision Deductions:**
   Collisions with obstacles lead to point deductions. For each **collision** with a cube or cylinder, **5 points** are deducted from the final score. Teams must be careful to avoid unnecessary collisions to maximize their score.
 
-As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied based on several factors: their **time**, their **collisions**, their **distance travlled**, and their **bonus points** for unused chances.
+As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied based on several factors: their **time**, their **collisions**, their **distance travlled**, and their **bonus points** for unused chances. 
 
 ### **Final Score Calculation:**
 
@@ -71,6 +71,7 @@ Where:
 - **Distance factor** = Distance travelled / 5 meters
 - **Time deduction** = 1 point per second after the penalty-free period (120 seconds)
 - **Collision penalty** = 3 points per collision
+- **Bonus point** = 3 points for each unused chance
 
 For example, if they braved the **Hard Track**, finished the race in **130 seconds** (with the first 120 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
 
