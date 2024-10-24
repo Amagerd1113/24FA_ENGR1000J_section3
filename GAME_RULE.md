@@ -1,4 +1,4 @@
-# **GAME RULE**
+# **GAME RULE (Game Day, Nov 6)**
 
 **Welcome to the Collaborative Two-Wheeled Self-Balancing Car Challenge!**
 
