@@ -120,7 +120,7 @@ Medium track: The topology consists of three layers, each including two or three
 Hard track: An example is provided below. On the game day, a similar track will be provided. The logic provided above has been tested to pass the hard track. 
 
 <p align="center">
-  <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image3.png">
+  <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image2.png">
 </p>
 
 ## **Ready?**
