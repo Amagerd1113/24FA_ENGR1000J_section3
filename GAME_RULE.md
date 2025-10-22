@@ -50,7 +50,7 @@ With every second that passes, the tension mounts. The journey is long, but they
   - **Example 1:** If they complete **3 meters** of the track, the distance percentage factor will be **3 meters / 5 meters = 0.6**. The starting score and penalty-free time are then multiplied by 0.6.
   - **Example 2:** If they complete the full **5 meters**, the distance percentage factor will be **5 meters / 5 meters = 1.0**. In this case, the starting score and penalty-free time remain unaffected.
 - **Collision Deductions:**
-  Collisions with obstacles lead to point deductions. For each **collision** with a cube or cylinder, **3 points** are deducted from the final score. Teams must be careful to avoid unnecessary collisions to maximize their score.
+  Collisions with obstacles lead to point deductions. For each **collision** with a cube or cylinder, **5 points** are deducted from the final score (**Multiple consecutive hits on the same object are considered one collision**). Teams must be careful to avoid unnecessary collisions to maximize their score.
 
 As they cross the end of the track, victory within their grasp, signaling the end of their quest and stopping the clock. The score is tallied based on several factors: their **time**, their **collisions**, their **distance travlled**, and their **bonus points** for unused chances. 
 
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
