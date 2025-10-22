@@ -79,11 +79,11 @@ The easy track has been set up in the empty space before the regular lab room. Y
 
 On the game day, you must **check your code** thoroughly before the game starts. You will have one chance to adjust your car setup before each track. Before each track starts, you need to hand over your car to us and no more modifications are allowed. Your order to start the game will be determined randomly on the game day.
 
-On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **6 chances to FAIL**. An attempt is considered **failed** if the car falls or the plastic board touches the ground or the car is stuck in a corner. 
+On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **5 chances to FAIL**. An attempt is considered **failed** if the car falls or the plastic board touches the ground or the car is stuck in a corner. 
 
-Example 1: if you can pass the easy track on your first attempt, you still have 6 chances. You can use the rest of chances in more difficult tracks.
+Example 1: if you can pass the easy track on your first attempt, you still have 5 chances. You can use the rest of chances in more difficult tracks.
 
-Example 2: if you fail the easy track 6 times, you have no chances left.
+Example 2: if you fail the easy track 5 times, you have no chances left.
 
 
 ## **Hint**
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
