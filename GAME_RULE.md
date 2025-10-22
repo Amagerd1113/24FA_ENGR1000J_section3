@@ -28,7 +28,7 @@ Now, the adventure truly unfolds. Three tracks lie ahead, each more dangerous th
 But every hero's journey is marked by the threat of failure. For these two brave robots, failure is not a distant possibility.
 
 - **Failure Definition:** The rules are clear: if the car **falls**, the **plastic board touches the ground**, or **car is stuck in one certain area**, they fail. The crowd holds its breath every time the board tilts dangerously close to the edge of a cube or cylinder.
-- **Chances to Fail:** Each team has **6 chances** to fail. Once they use them all, the game is over.
+- **Chances to Fail:** Each team has **5 chances** to fail. Once they use them all, the game is over.
 - **Want to try again?** Yes, you can. If you get a partial credit on a track, you can choose to spend one more chance on it before we move on to the next track.
 
   - **Case 1:** If they conquer the easy track without a single failure, they hold on to their chances, precious tokens they can use when the path becomes rougher.
@@ -128,5 +128,6 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
