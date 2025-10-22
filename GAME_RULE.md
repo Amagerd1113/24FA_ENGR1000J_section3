@@ -44,7 +44,7 @@ But above all else, this race is a story of teamwork. One robot holds the key to
 
 With every second that passes, the tension mounts. The journey is long, but they must be swift, for time is an unforgiving adversary. **Time will start to be counted when your car passes the starting line.**
 
-- **Timing Penalty:** Time marches on. For the first **120 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
+- **Timing Penalty:** Time marches on. For the first **100 seconds**, they are safe—no penalties, no rush. But after that, every second costs them **1 point**. The clock ticks, their score dwindles. Can they maintain the delicate balance between speed and caution?
 - **Distance Score:** To encourage progress through the track, a distance-based scoring system is in place. The score calculation will include a percentage factor determined by the distance covered. The percentage factor is defined as **(distance travelled / 5 meters)**. 
 
   - **Example 1:** If they complete **3 meters** of the track, the distance percentage factor will be **3 meters / 5 meters = 0.6**. The starting score and penalty-free time are then multiplied by 0.6.
@@ -65,13 +65,13 @@ The final score is calculated as:
 Where:
 
 - **Distance factor** = Distance travelled / 5 meters
-- **Time deduction** = 1 point per second after the penalty-free period (120 seconds)
+- **Time deduction** = 1 point per second after the penalty-free period (100 seconds)
 - **Collision penalty** = 3 points per collision
 - **Bonus point** = 3 points for each unused chance
 
-For example, if they braved the **Hard Track**, finished the race in **130 seconds** (with the first 120 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
+For example, if they braved the **Hard Track**, finished the race in **120 seconds** (with the first 100 seconds free from penalty), collided with **2 cubes** and **1 cylinder**, advanced **4 meters**, their final score would be:
 
-**Hard track score = (40 × 4/5) - (1 × (130 - 120)) - (3 × 3) = 13 points.**
+**Hard track score = (60 × 4/5) - (1 × (120 - 100)) - (5 × 3) = 13 points.**
 
 ## **Important Reminder:**
 
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
