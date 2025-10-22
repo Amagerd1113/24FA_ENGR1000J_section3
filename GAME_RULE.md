@@ -28,7 +28,7 @@ Now, the adventure truly unfolds. Three tracks lie ahead, each more dangerous th
 But every hero's journey is marked by the threat of failure. For these two brave robots, failure is not a distant possibility.
 
 - **Failure Definition:** The rules are clear: if the car **falls**, the **plastic board touches the ground**, or **car is stuck in one certain area**, they fail. The crowd holds its breath every time the board tilts dangerously close to the edge of a cube or cylinder.
-- **Chances to Fail:** Each team has **6 chances** to fail. Once they use them all, the game is over.
+- **Chances to Fail:** Each team has **5 chances** to fail. Once they use them all, the game is over.
 - **Want to try again?** Yes, you can. If you get a partial credit on a track, you can choose to spend one more chance on it before we move on to the next track.
 
   - **Case 1:** If they conquer the easy track without a single failure, they hold on to their chances, precious tokens they can use when the path becomes rougher.
@@ -79,11 +79,11 @@ The easy track has been set up in the empty space before the regular lab room. Y
 
 On the game day, you must **check your code** thoroughly before the game starts. You will have one chance to adjust your car setup before each track. Before each track starts, you need to hand over your car to us and no more modifications are allowed. Your order to start the game will be determined randomly on the game day.
 
-On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **6 chances to FAIL**. An attempt is considered **failed** if the car falls or the plastic board touches the ground or the car is stuck in a corner. 
+On the game day, the track will be set up from **Easy**, to **Medium**, and finally to **Hard**. Each team will be given a total of **5 chances to FAIL**. An attempt is considered **failed** if the car falls or the plastic board touches the ground or the car is stuck in a corner. 
 
-Example 1: if you can pass the easy track on your first attempt, you still have 6 chances. You can use the rest of chances in more difficult tracks.
+Example 1: if you can pass the easy track on your first attempt, you still have 5 chances. You can use the rest of chances in more difficult tracks.
 
-Example 2: if you fail the easy track 6 times, you have no chances left.
+Example 2: if you fail the easy track 5 times, you have no chances left.
 
 
 ## **Hint**
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
