@@ -1,6 +1,6 @@
 # **GAME RULE**
 
-**Welcome to the Collaborative Two-Wheeled Self-Balancing Car Challenge! (Game Day: Nov 6)**
+**Welcome to the Collaborative Two-Wheeled Self-Balancing Car Challenge! (Game Day: Nov 5)**
 
 In this thrilling competition, two two-wheeled self-balancing cars face a daunting challenge. They must work together, carrying a foam board (the cap of your balanced car container) across a treacherous 5-meter-long and 2-meter-wide track. The path ahead is scattered with various obstacles, and while one car is equipped with an ultrasonic sensor to guide the way, the other is blind to the dangers ahead. Through Bluetooth communication, they will share their vision and navigate the course, balancing speed and precision in a race for glory. Will they emerge victorious, or will the obstacles claim their journey?
 
@@ -128,3 +128,4 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
